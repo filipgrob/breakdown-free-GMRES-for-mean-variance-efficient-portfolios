@@ -1,1 +1,2 @@
-# Breakdown-Free-GMRES-for-Mean-Variance-Efficient-Portfolios
+## Breakdown-Free-GMRES-for-Mean-Variance-Efficient-Portfolios
+This code was developed for the free homework in the course of Computational Linear Algebra for Large Scale Problems. It essentially replicates the results found on two articles about a variant of gmres applied to a financial problem. Useful links about the paper can be found in the dija_application.m file while the dataset used is already uploaded in the material.
